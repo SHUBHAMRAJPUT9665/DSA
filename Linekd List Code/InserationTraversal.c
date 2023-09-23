@@ -143,6 +143,7 @@ int main(){
        head = insertAtFirst(head,element);
        printf("\n Element inserted At Start");
        linkedListTraversal(head);
+       break;
 
 
     // case for insertion at between positon of linked list 
